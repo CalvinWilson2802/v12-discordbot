@@ -1,4 +1,5 @@
 {
-    "prefix": "z",
+    "token": "YOUR BOT TOKEN",
+    "prefix": "YOUR BOT PREFIX",
     "google":"AIzaSyBBTHdBbqTn42OsTnJtbBENWQpT2d5_jPs"
   }
